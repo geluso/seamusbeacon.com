@@ -1,0 +1,9 @@
+convert -scale 12% actually_morty.jpg scaled/actually_morty_scaled.jpg
+convert -scale 12% chair.jpg scaled/chair_scaled.jpg
+convert -scale 12% feeding_table.jpg scaled/feeding_table_scaled.jpg
+convert -scale 12% new_collar.jpg scaled/new_collar_scaled.jpg
+convert -scale 12% picked_up.jpg scaled/picked_up_scaled.jpg
+convert -scale 12% poking_head_through_fence.jpg scaled/poking_head_through_fence_scaled.jpg
+convert -scale 12% seamus_the_car_mechanic.jpg scaled/seamus_the_car_mechanic_scaled.jpg
+convert -scale 12% shortys.jpg scaled/shortys_scaled.jpg
+convert -scale 12% shortys_patio.jpg scaled/shortys_patio_scaled.jpg
